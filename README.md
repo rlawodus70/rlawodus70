@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white"/>
 
 ![rlawodus70@naver.com github stats](https://github-readme-stats.vercel.app/api?username=rlawodus70&show_icons=true)
-[![rlawodus70@naver.com github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rlawdodus70&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/rlawodus70)
+[![rlawodus70@naver.com github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rlawodus70&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/rlawodus70)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rlawodus70&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
