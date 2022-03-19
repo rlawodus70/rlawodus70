@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 
-![rlawodus70@naver.com github stats](https://github-readme-stats.vercel.app/api?username=rlawodus70&count_private=true&show_icons=true&theme=synthwave) [![rlawodus70@naver.com github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rlawodus70&count_private=true&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=synthwave)](https://github.com/rlawodus70)
+![rlawodus70@naver.com github stats](https://github-readme-stats.vercel.app/api?username=rlawodus70&count_private=true&show_icons=true&theme=gruvbox) [![rlawodus70@naver.com github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rlawodus70&count_private=true&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=gruvbox)](https://github.com/rlawodus70)
 
 <!--
 **rlawodus70/rlawodus70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
