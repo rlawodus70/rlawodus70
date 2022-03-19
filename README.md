@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 프론트 개발자입니다.
 
 ### SKILL ⌨
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
