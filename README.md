@@ -4,6 +4,8 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white"/>
 
+![rlawodus70@naver.com github stats](https://github-readme-stats.vercel.app/api?username=rlawodus70&show_icons=true)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rlawodus70&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 **rlawodus70/rlawodus70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
