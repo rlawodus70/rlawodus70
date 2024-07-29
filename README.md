@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
 
 ![rlawodus70@naver.com github stats](https://github-readme-stats.vercel.app/api?username=rlawodus70&count_private=true&show_icons=true&theme=dracula) [![rlawodus70@naver.com github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rlawodus70&count_private=true&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=dracula)](https://github.com/rlawodus70)
 
